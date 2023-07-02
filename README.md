@@ -14,6 +14,8 @@ wget https://raw.githubusercontent.com/FilipinoAkoShaders/LinuxRunner/main/linux
 bash linuxrunner.installer.sh
 ```
 
+Latest Version: `1.0`
+
 ## Working
 - [x] Run Linux application
 - [x] Sound Support
