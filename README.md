@@ -27,8 +27,5 @@ Latest Version: `1.0`
 ## Note 
 LinuxRunner is not fully 100% more like 79%, some applications don't work, sometimes launching is buggy.
 
-## Setup
-
-
 ## All in Video 
-[Youtube Video](https://youtube.com)
+[Youtube Video](https://youtu.be/zb56gsrdGww)
