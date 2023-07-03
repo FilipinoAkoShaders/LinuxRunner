@@ -14,7 +14,7 @@ wget https://raw.githubusercontent.com/FilipinoAkoShaders/LinuxRunner/main/linux
 bash linuxrunner.installer.sh
 ```
 
-Latest Version: `1.0`
+Latest Version: `1.1`
 
 ## Working
 - [x] Run Linux application
