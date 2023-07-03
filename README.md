@@ -7,11 +7,11 @@ Basically it is an application that can be easily installed on termux, this appl
 ## How to install?
 1. Download Installer Script
 ```sh
-wget https://raw.githubusercontent.com/FilipinoAkoShaders/LinuxRunner/main/linuxrunner.installer.sh
+wget https://raw.githubusercontent.com/FilipinoAkoShaders/LinuxRunner/main/installer.sh
 ```
 2. Execute the Installer script to start installing
 ```sh
-bash linuxrunner.installer.sh
+bash installer.sh
 ```
 
 Latest Version: `1.1`
